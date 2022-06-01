@@ -2,7 +2,7 @@
 Here we will design an  e-commerce app using ansible and installing some of the LAMP tools... 
 # - L : Linux
 # - A : Apache web server
-# - M : mariadb_server or mysql
+# - M : mariadb_server or mysql_db
 # - P : php
 
 # Introduction
