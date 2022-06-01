@@ -1,5 +1,9 @@
 # learning_app-ecommerce_-Ansible_automation
 Here we will design an  e-commerce app using ansible and installing some of the LAMP tools... 
+# - L : Linux
+# - A : Apache web server
+# - M : mariadb_server or mysql
+# - P : php
 
 # Introduction
 
